@@ -1,5 +1,3 @@
 REVIEWBOARD_URL = "http://localhost/"
-REPOSITORY = "sampleweb"
+REPOSITORY = "project1"
 REPOSITORY_TYPE = "git"
-BRANCH = "master"
-LAND_DEST_BRANCH = "master"
