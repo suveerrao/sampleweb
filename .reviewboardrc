@@ -1,4 +1,4 @@
-REVIEWBOARD_URL = "http://35.194.245.202/"
+REVIEWBOARD_URL = "http://localhost/"
 REPOSITORY = "sampleweb"
 REPOSITORY_TYPE = "git"
 BRANCH = "master"
